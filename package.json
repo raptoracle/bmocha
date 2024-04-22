@@ -9,10 +9,10 @@
     "testing"
   ],
   "license": "MIT",
-  "repository": "git://github.com/bcoin-org/bmocha.git",
-  "homepage": "https://github.com/bcoin-org/bmocha",
+  "repository": "git://github.com/raptoracle/bmocha.git",
+  "homepage": "https://github.com/raptoracle/bmocha",
   "bugs": {
-    "url": "https://github.com/bcoin-org/bmocha/issues"
+    "url": "https://github.com/raptoracle/bmocha/issues"
   },
   "author": "Christopher Jeffrey <chjjeffrey@gmail.com>",
   "main": "./lib/bmocha.js",

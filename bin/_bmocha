@@ -3,7 +3,7 @@
 /*!
  * bmocha - alternative mocha implementation
  * Copyright (c) 2018-2019, Christopher Jeffrey (MIT License).
- * https://github.com/bcoin-org/bmocha
+ * https://github.com/raptoracle/bmocha
  */
 
 'use strict';
